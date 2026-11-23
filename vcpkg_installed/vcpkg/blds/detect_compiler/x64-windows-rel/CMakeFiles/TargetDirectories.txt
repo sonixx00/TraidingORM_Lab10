@@ -1,0 +1,2 @@
+C:/Users/ASUS/Documents/Visual Studio 2022/TraidingORM/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Documents/Visual Studio 2022/TraidingORM/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/rebuild_cache.dir
